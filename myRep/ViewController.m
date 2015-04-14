@@ -17,7 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"this is branch01");
+    NSLog(@"this is branch02");
 }
 
 - (void)didReceiveMemoryWarning {
